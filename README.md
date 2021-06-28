@@ -1,8 +1,6 @@
 This is a [Next.js](https://nextjs.org/) v11 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## API using [TMDB](https://www.themoviedb.org/)
-
-## Styling with Tailwind-CSS
+## API using [TMDB](https://www.themoviedb.org/), Styling with Tailwind-CSS, Deployed by Vercel
 
 ## Getting Started
 
